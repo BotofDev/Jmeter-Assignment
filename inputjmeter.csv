@@ -1,0 +1,10 @@
+firstname,lastname,totalprice,deposit,checkin,checkout,additional
+chirag,joshi,199,TRUE,2023-06-12,2023-06-15,bed
+nidhi,aroskar,678,TRUE,2023-08-11,2023-08-14,crib
+steven,joseph,788,FALSE,2023-08-19,2023-01-01,table
+henry,klassen,789,FALSE,2018-01-01,2018-01-01,fan
+masser,oblongta,654,TRUE,2018-01-01,2018-01-01,bulb
+smita,agni,342,TRUE,2018-01-01,2018-01-01,chair
+shifa,laxmeshwar,784,TRUE,2018-01-01,2018-01-01,pillow
+joseph,marlin,775,TRUE,2018-01-01,2018-01-01,cover
+prestin,moore,986,TRUE,2018-01-01,2018-01-01,handwash
