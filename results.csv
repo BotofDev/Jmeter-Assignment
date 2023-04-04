@@ -1,0 +1,100 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1680591764172,1698,Create Booking,200,OK,Thread Group 2-1,text,true,,446,530,1,2,https://restful-booker.herokuapp.com/booking,1698,0,1384
+1680591764172,1698,Create Booking,200,OK,Thread Group 1-1,text,true,,440,524,1,2,https://restful-booker.herokuapp.com/booking,1698,0,1384
+1680591765905,262,Get Booking ,200,OK,Thread Group 1-1,text,true,,410,258,1,2,https://restful-booker.herokuapp.com/booking/12728,262,0,0
+1680591765905,262,Create Booking,200,OK,Thread Group 2-1,text,true,,444,529,1,2,https://restful-booker.herokuapp.com/booking,262,0,0
+1680591766169,247,Update Booking ,200,OK,Thread Group 1-1,text,true,,412,531,1,2,https://restful-booker.herokuapp.com/booking/12728,247,0,0
+1680591766178,236,Create Booking,200,OK,Thread Group 2-1,text,true,,451,535,1,2,https://restful-booker.herokuapp.com/booking,236,0,0
+1680591766417,262,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/12728,262,0,0
+1680591766420,259,Create Booking,200,OK,Thread Group 2-1,text,true,,452,536,1,2,https://restful-booker.herokuapp.com/booking,259,0,0
+1680591766680,312,Delete Booking ,201,Created,Thread Group 1-1,text,true,,248,280,1,2,https://restful-booker.herokuapp.com/booking/12728,311,0,0
+1680591766684,307,Create Booking,200,OK,Thread Group 2-1,text,true,,444,529,1,2,https://restful-booker.herokuapp.com/booking,307,0,0
+1680591766992,300,Get Booking ,404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to contain /HTTP/1.1 404 Not Found
+/",252,258,1,2,https://restful-booker.herokuapp.com/booking/12728,300,0,0
+1680591766996,296,Create Booking,200,OK,Thread Group 2-1,text,true,,448,532,1,2,https://restful-booker.herokuapp.com/booking,296,0,0
+1680591767293,308,Create Booking,200,OK,Thread Group 1-1,text,true,,442,526,1,2,https://restful-booker.herokuapp.com/booking,308,0,0
+1680591767294,306,Create Booking,200,OK,Thread Group 2-1,text,true,,447,532,1,2,https://restful-booker.herokuapp.com/booking,306,0,0
+1680591767606,302,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/12805,302,0,0
+1680591767606,302,Create Booking,200,OK,Thread Group 2-1,text,true,,446,530,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591767909,307,Update Booking ,200,OK,Thread Group 1-1,text,true,,412,531,1,2,https://restful-booker.herokuapp.com/booking/12805,307,0,0
+1680591767913,302,Create Booking,200,OK,Thread Group 2-1,text,true,,450,534,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591768220,227,Create Booking,200,OK,Thread Group 2-1,text,true,,449,534,1,2,https://restful-booker.herokuapp.com/booking,227,0,0
+1680591768217,238,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/12805,238,0,0
+1680591768449,236,Create Booking,200,OK,Thread Group 2-1,text,true,,448,532,1,2,https://restful-booker.herokuapp.com/booking,236,0,0
+1680591768455,256,Delete Booking ,201,Created,Thread Group 1-1,text,true,,248,280,1,2,https://restful-booker.herokuapp.com/booking/12805,256,0,0
+1680591768711,326,Get Booking ,404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to contain /HTTP/1.1 404 Not Found
+/",252,258,1,2,https://restful-booker.herokuapp.com/booking/12805,326,0,0
+1680591768689,348,Create Booking,200,OK,Thread Group 2-1,text,true,,448,533,1,2,https://restful-booker.herokuapp.com/booking,348,0,0
+1680591769042,229,Create Booking,200,OK,Thread Group 2-1,text,true,,453,537,1,2,https://restful-booker.herokuapp.com/booking,229,0,0
+1680591769038,235,Create Booking,200,OK,Thread Group 1-1,text,true,,443,528,1,2,https://restful-booker.herokuapp.com/booking,235,0,0
+1680591769275,272,Get Booking ,200,OK,Thread Group 1-1,text,true,,413,258,1,2,https://restful-booker.herokuapp.com/booking/12879,272,0,0
+1680591769273,273,Create Booking,200,OK,Thread Group 2-1,text,true,,446,530,1,2,https://restful-booker.herokuapp.com/booking,272,0,0
+1680591769548,305,Update Booking ,200,OK,Thread Group 1-1,text,true,,412,531,1,2,https://restful-booker.herokuapp.com/booking/12879,305,0,0
+1680591769551,302,Create Booking,200,OK,Thread Group 2-1,text,true,,450,535,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591769854,308,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/12879,308,0,0
+1680591769858,304,Create Booking,200,OK,Thread Group 2-1,text,true,,448,532,1,2,https://restful-booker.herokuapp.com/booking,303,0,0
+1680591770165,235,Create Booking,200,OK,Thread Group 2-1,text,true,,448,533,1,2,https://restful-booker.herokuapp.com/booking,235,0,0
+1680591770162,253,Delete Booking ,201,Created,Thread Group 1-1,text,true,,248,280,1,2,https://restful-booker.herokuapp.com/booking/12879,253,0,0
+1680591770415,258,Get Booking ,404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to contain /HTTP/1.1 404 Not Found
+/",252,258,1,2,https://restful-booker.herokuapp.com/booking/12879,258,0,0
+1680591770402,271,Create Booking,200,OK,Thread Group 2-1,text,true,,448,532,1,2,https://restful-booker.herokuapp.com/booking,271,0,0
+1680591770677,302,Create Booking,200,OK,Thread Group 2-1,text,true,,447,531,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591770674,305,Create Booking,200,OK,Thread Group 1-1,text,true,,441,526,1,2,https://restful-booker.herokuapp.com/booking,305,0,0
+1680591770983,244,Get Booking ,200,OK,Thread Group 1-1,text,true,,411,258,1,2,https://restful-booker.herokuapp.com/booking/12942,244,0,0
+1680591770982,244,Create Booking,200,OK,Thread Group 2-1,text,true,,445,530,1,2,https://restful-booker.herokuapp.com/booking,244,0,0
+1680591771227,265,Update Booking ,200,OK,Thread Group 1-1,text,true,,412,531,1,2,https://restful-booker.herokuapp.com/booking/12942,265,0,0
+1680591771227,264,Create Booking,200,OK,Thread Group 2-1,text,true,,449,533,1,2,https://restful-booker.herokuapp.com/booking,264,0,0
+1680591771493,308,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/12942,308,0,0
+1680591771494,307,Create Booking,200,OK,Thread Group 2-1,text,true,,448,533,1,2,https://restful-booker.herokuapp.com/booking,307,0,0
+1680591771802,304,Delete Booking ,201,Created,Thread Group 1-1,text,true,,248,280,1,2,https://restful-booker.herokuapp.com/booking/12942,304,0,0
+1680591771805,301,Create Booking,200,OK,Thread Group 2-1,text,true,,449,533,1,2,https://restful-booker.herokuapp.com/booking,301,0,0
+1680591772107,305,Get Booking ,404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to contain /HTTP/1.1 404 Not Found
+/",252,258,1,2,https://restful-booker.herokuapp.com/booking/12942,305,0,0
+1680591772110,302,Create Booking,200,OK,Thread Group 2-1,text,true,,446,530,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591772413,309,Create Booking,200,OK,Thread Group 2-1,text,true,,446,531,1,2,https://restful-booker.herokuapp.com/booking,308,0,0
+1680591772412,310,Create Booking,200,OK,Thread Group 1-1,text,true,,444,528,1,2,https://restful-booker.herokuapp.com/booking,310,0,0
+1680591772727,301,Get Booking ,200,OK,Thread Group 1-1,text,true,,414,258,1,2,https://restful-booker.herokuapp.com/booking/12996,301,0,0
+1680591772726,303,Create Booking,200,OK,Thread Group 2-1,text,true,,449,533,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591773029,244,Update Booking ,200,OK,Thread Group 1-1,text,true,,412,531,1,2,https://restful-booker.herokuapp.com/booking/12996,244,0,0
+1680591773034,236,Create Booking,200,OK,Thread Group 2-1,text,true,,453,538,1,2,https://restful-booker.herokuapp.com/booking,236,0,0
+1680591773273,269,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/12996,269,0,0
+1680591773275,267,Create Booking,200,OK,Thread Group 2-1,text,true,,446,530,1,2,https://restful-booker.herokuapp.com/booking,267,0,0
+1680591773542,276,Delete Booking ,201,Created,Thread Group 1-1,text,true,,248,280,1,2,https://restful-booker.herokuapp.com/booking/12996,276,0,0
+1680591773546,272,Create Booking,200,OK,Thread Group 2-1,text,true,,443,527,1,2,https://restful-booker.herokuapp.com/booking,272,0,0
+1680591773819,337,Get Booking ,404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to contain /HTTP/1.1 404 Not Found
+/",252,258,1,2,https://restful-booker.herokuapp.com/booking/12996,337,0,0
+1680591773823,330,Create Booking,200,OK,Thread Group 2-1,text,true,,445,530,1,2,https://restful-booker.herokuapp.com/booking,330,0,0
+1680591774159,304,Create Booking,200,OK,Thread Group 2-1,text,true,,447,531,1,2,https://restful-booker.herokuapp.com/booking,304,0,0
+1680591774158,307,Create Booking,200,OK,Thread Group 1-1,text,true,,440,524,1,2,https://restful-booker.herokuapp.com/booking,307,0,0
+1680591774468,300,Get Booking ,200,OK,Thread Group 1-1,text,true,,410,258,1,2,https://restful-booker.herokuapp.com/booking/13056,300,0,0
+1680591774466,302,Create Booking,200,OK,Thread Group 2-1,text,true,,447,532,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591774769,308,Update Booking ,200,OK,Thread Group 1-1,text,true,,412,531,1,2,https://restful-booker.herokuapp.com/booking/13056,308,0,0
+1680591774770,307,Create Booking,200,OK,Thread Group 2-1,text,true,,445,529,1,2,https://restful-booker.herokuapp.com/booking,307,0,0
+1680591775078,305,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/13056,305,0,0
+1680591775081,302,Create Booking,200,OK,Thread Group 2-1,text,true,,449,533,1,2,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591775387,251,Create Booking,200,OK,Thread Group 2-1,text,true,,445,530,1,2,https://restful-booker.herokuapp.com/booking,250,0,0
+1680591775384,267,Delete Booking ,201,Created,Thread Group 1-1,text,true,,248,280,1,2,https://restful-booker.herokuapp.com/booking/13056,267,0,0
+1680591775652,244,Get Booking ,404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to contain /HTTP/1.1 404 Not Found
+/",252,258,1,2,https://restful-booker.herokuapp.com/booking/13056,244,0,0
+1680591775642,255,Create Booking,200,OK,Thread Group 2-1,text,true,,448,532,1,2,https://restful-booker.herokuapp.com/booking,254,0,0
+1680591775901,301,Create Booking,200,OK,Thread Group 2-1,text,true,,444,529,1,2,https://restful-booker.herokuapp.com/booking,301,0,0
+1680591775898,304,Create Booking,200,OK,Thread Group 1-1,text,true,,447,531,1,2,https://restful-booker.herokuapp.com/booking,304,0,0
+1680591776205,301,Get Booking ,200,OK,Thread Group 1-1,text,true,,417,258,1,2,https://restful-booker.herokuapp.com/booking/13136,300,0,0
+1680591776205,301,Create Booking,200,OK,Thread Group 2-1,text,true,,448,532,1,2,https://restful-booker.herokuapp.com/booking,300,0,0
+1680591776508,228,Create Booking,200,OK,Thread Group 2-1,text,true,,446,530,1,2,https://restful-booker.herokuapp.com/booking,228,0,0
+1680591776506,242,Update Booking ,200,OK,Thread Group 1-1,text,true,,412,531,1,2,https://restful-booker.herokuapp.com/booking/13136,242,0,0
+1680591776748,275,Get Booking ,200,OK,Thread Group 1-1,text,true,,412,258,1,2,https://restful-booker.herokuapp.com/booking/13136,275,0,0
+1680591776737,286,Create Booking,200,OK,Thread Group 2-1,text,true,,447,532,1,2,https://restful-booker.herokuapp.com/booking,286,0,0
+1680591777024,306,Delete Booking ,201,Created,Thread Group 1-1,text,true,,248,280,1,2,https://restful-booker.herokuapp.com/booking/13136,305,0,0
+1680591777026,304,Create Booking,200,OK,Thread Group 2-1,text,true,,449,533,1,2,https://restful-booker.herokuapp.com/booking,303,0,0
+1680591777331,242,Get Booking ,404,Not Found,Thread Group 1-1,text,false,"Test failed: code expected to contain /HTTP/1.1 404 Not Found
+/",252,258,1,2,https://restful-booker.herokuapp.com/booking/13136,242,0,0
+1680591777333,240,Create Booking,200,OK,Thread Group 2-1,text,true,,448,533,1,2,https://restful-booker.herokuapp.com/booking,240,0,0
+1680591777574,267,Create Booking,200,OK,Thread Group 2-1,text,true,,444,528,1,1,https://restful-booker.herokuapp.com/booking,267,0,0
+1680591777844,304,Create Booking,200,OK,Thread Group 2-1,text,true,,447,531,1,1,https://restful-booker.herokuapp.com/booking,304,0,0
+1680591778151,304,Create Booking,200,OK,Thread Group 2-1,text,true,,449,534,1,1,https://restful-booker.herokuapp.com/booking,304,0,0
+1680591778458,237,Create Booking,200,OK,Thread Group 2-1,text,true,,444,528,1,1,https://restful-booker.herokuapp.com/booking,237,0,0
+1680591778697,271,Create Booking,200,OK,Thread Group 2-1,text,true,,446,531,1,1,https://restful-booker.herokuapp.com/booking,270,0,0
+1680591778972,302,Create Booking,200,OK,Thread Group 2-1,text,true,,443,527,1,1,https://restful-booker.herokuapp.com/booking,302,0,0
+1680591779276,305,Create Booking,200,OK,Thread Group 2-1,text,true,,448,532,1,1,https://restful-booker.herokuapp.com/booking,305,0,0
+1680591779584,303,Create Booking,200,OK,Thread Group 2-1,text,true,,451,536,1,1,https://restful-booker.herokuapp.com/booking,303,0,0
